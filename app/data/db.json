@@ -1,81 +1,92 @@
 {
-    "commits":[
-    
-        {
-            "user": "GitHub",
-            "sha": "4633e8fa242218657d1c2e83cdcafc3404d1496e",
-            "author": "casrhub",
-            "message": "Test commit",
-            "email": "115209085+casrhub@users.noreply.github.com",
-            "date": "2024-01-18T02:45:55Z"
-        },
-        {
-            "user": "César Silva",
-            "sha": "c20a43c8eac57f3d358ed58136145bfcec7650ea",
-            "author": "César Silva",
-            "message": "New jsonl processing apporach --> {}",
-            "email": "casrr@proton.me",
-            "date": "2024-01-13T08:11:19Z"
-        },
-        {
-            "user": "César Silva",
-            "sha": "1c91d63493111ddfb231fdf14e7c1292689122b6",
-            "author": "César Silva",
-            "message": "API keys fixed",
-            "email": "casrr@proton.me",
-            "date": "2024-01-13T02:13:51Z"
-        },
-        {
-            "user": "César Silva",
-            "sha": "bf2c6cee86109162856ef12113ff49d52388a1f3",
-            "author": "César Silva",
-            "message": "docker command updat",
-            "email": "casrr@proton.me",
-            "date": "2024-01-11T18:04:40Z"
-        },
-        {
-            "user": "César Silva",
-            "sha": "565a10f48f744c49ddce1e0aea9b14afaeeab3db",
-            "author": "César Silva",
-            "message": "docker command update",
-            "email": "casrr@proton.me",
-            "date": "2024-01-10T17:07:42Z"
-        },
-        {
-            "user": "César Silva",
-            "sha": "13aa830bf769016a55b91c8d7452a18a1510a86b",
-            "author": "César Silva",
-            "message": "dataframe display update: highlighted results, based on top k resuls",
-            "email": "casrr@proton.me",
-            "date": "2024-01-10T17:06:09Z"
-        },
-        {
-            "user": "César Silva",
-            "sha": "7e1136060f69942c661fd4e1bf11ee8cb1e5f5b0",
-            "author": "César Silva",
-            "message": "dataframe display update: highlighted results, based on top k results",
-            "email": "casrr@proton.me",
-            "date": "2024-01-08T21:56:20Z"
-        },
-        {
-            "user": "César Silva",
-            "sha": "fc4ca2df81e88df8705a3a0517ef8cb8ac8e5ce0",
-            "author": "César Silva",
-            "message": "Updated prompt and solved embedding chunk problem",
-            "email": "casrr@proton.me",
-            "date": "2024-01-08T17:40:29Z"
-        },
-        {
-            "user": "César Silva",
-            "sha": "e226bada6d0c44d925694d8a8a98255ef6afa731",
-            "author": "César Silva",
-            "message": "denomalized dataimplementation added",
-            "email": "casrr@proton.me",
-            "date": "2024-01-08T03:11:22Z"
-        }
-    ]
-    
-
-
-
+  "commits": [
+    {
+      "id": "1",
+      "user": "GitHub",
+      "sha": "4633e8fa242218657d1c2e83cdcafc3404d1496e",
+      "author": "casrhub",
+      "message": "Test commit",
+      "email": "115209085+casrhub@users.noreply.github.com",
+      "date": "2024-01-18T02:45:55Z"
+    },
+    {
+      "user": "César Silva",
+      "sha": "c20a43c8eac57f3d358ed58136145bfcec7650ea",
+      "author": "César Silva",
+      "message": "New jsonl processing apporach --> {}",
+      "email": "casrr@proton.me",
+      "date": "2024-01-13T08:11:19Z",
+      "id": "2"
+    },
+    {
+      "user": "César Silva",
+      "sha": "1c91d63493111ddfb231fdf14e7c1292689122b6",
+      "author": "César Silva",
+      "message": "API keys fixed",
+      "email": "casrr@proton.me",
+      "date": "2024-01-13T02:13:51Z",
+      "id": "e9be"
+    },
+    {
+      "user": "César Silva",
+      "sha": "bf2c6cee86109162856ef12113ff49d52388a1f3",
+      "author": "César Silva",
+      "message": "docker command updat",
+      "email": "casrr@proton.me",
+      "date": "2024-01-11T18:04:40Z",
+      "id": "a1b1"
+    },
+    {
+      "user": "César Silva",
+      "sha": "565a10f48f744c49ddce1e0aea9b14afaeeab3db",
+      "author": "César Silva",
+      "message": "docker command update",
+      "email": "casrr@proton.me",
+      "date": "2024-01-10T17:07:42Z",
+      "id": "e3e1"
+    },
+    {
+      "user": "César Silva",
+      "sha": "13aa830bf769016a55b91c8d7452a18a1510a86b",
+      "author": "César Silva",
+      "message": "dataframe display update: highlighted results, based on top k resuls",
+      "email": "casrr@proton.me",
+      "date": "2024-01-10T17:06:09Z",
+      "id": "376b"
+    },
+    {
+      "user": "César Silva",
+      "sha": "7e1136060f69942c661fd4e1bf11ee8cb1e5f5b0",
+      "author": "César Silva",
+      "message": "dataframe display update: highlighted results, based on top k results",
+      "email": "casrr@proton.me",
+      "date": "2024-01-08T21:56:20Z",
+      "id": "aa29"
+    },
+    {
+      "user": "César Silva",
+      "sha": "fc4ca2df81e88df8705a3a0517ef8cb8ac8e5ce0",
+      "author": "César Silva",
+      "message": "Updated prompt and solved embedding chunk problem",
+      "email": "casrr@proton.me",
+      "date": "2024-01-08T17:40:29Z",
+      "id": "4cfb"
+    },
+    {
+      "user": "César Silva",
+      "sha": "e226bada6d0c44d925694d8a8a98255ef6afa731",
+      "author": "César Silva",
+      "message": "denomalized dataimplementation added",
+      "email": "casrr@proton.me",
+      "date": "2024-01-08T03:11:22Z",
+      "id": "0c57"
+    },
+    {
+      "id": "98cd",
+      "title": "Casr",
+      "body": "qr como andan ",
+      "priority": "high",
+      "user_email": "casrr@proton.me"
+    }
+  ]
 }
