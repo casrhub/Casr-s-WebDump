@@ -16,6 +16,9 @@ export default function Navbar() {
           <h1> Casr Site</h1>
           <Link href = "/">Home</Link>
           <Link href = "/commits">Commits</Link>
+          <Link href = "/notes">Notes</Link>
+          <Link href = "/breakingbad">Breaking Bad Quote</Link>
+
     </nav>
   )
 }
