@@ -1,6 +1,7 @@
 import Link from "next/link"
 // Fetching commit list from data json 
 async function getCommits(){
+    await new Promise(resolve => setTimeout(resolve,3000))
     const res = await fetch('http://localhost:4000/commits') 
     return res.json()
 }
